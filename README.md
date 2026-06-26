@@ -38,4 +38,3 @@ g++ main.cpp MetroSystem.cpp -o metro
 * How graphs are represented using adjacency lists
 * Implementing Dijkstra's Algorithm for shortest path
 * Using STL containers like `vector`, `unordered_map`, and `priority_queue`
-* Organizing a C++ project into multiple files
